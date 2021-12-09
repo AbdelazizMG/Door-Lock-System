@@ -1,7 +1,7 @@
 # Door Lock System
  This is a Door Lock System Project using AVR-Atmega16 MCU Simulated By Protues 8.11 Professional
  
-# Desctiption
+# Description
  TWO MCU are used in this Project.
  
   - First MCU is used to get the password from the user and send it using UART Communication Protocol 
